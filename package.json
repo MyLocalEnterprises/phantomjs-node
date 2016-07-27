@@ -3,7 +3,7 @@
   "name": "phantom",
   "description": "PhantomJS integration module for NodeJS",
   "homepage": "https://github.com/amir20/phantomjs-node",
-  "version": "2.1.7",
+  "version": "2.1.7.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/amir20/phantomjs-node.git"
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "linerstream": "^0.1.4",
-    "phantomjs-prebuilt": "^2.1.4",
+    "phantomjs-prebuilt": "2.1.7",
     "winston": "^2.2.0"
   },
   "devDependencies": {
